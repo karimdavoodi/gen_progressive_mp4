@@ -1,0 +1,15 @@
+{
+  "name": "mp4_progressive",
+  "version": "1.0.0",
+  "description": "Make mp4 file progressive",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha  test/**/*.test.js"
+  },
+  "author": "karimdavoodi@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^8.2.3",
+    "mocha": "^9.0.2"
+  }
+}
